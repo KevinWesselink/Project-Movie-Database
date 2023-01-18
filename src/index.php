@@ -16,5 +16,9 @@ include '../src/functions.php';
 
     <h1>Test</h1>
 
+    <form method="post" name="search">
+        <label for=""></label>
+    </form>
+
 </body>
 </html>
