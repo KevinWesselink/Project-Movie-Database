@@ -14,7 +14,7 @@ include '../src/functions.php';
 </head>
 <body>
     <form method="post" name="search">
-        <input type="text" name="nameTitle" value="" placeholder="Vul naam van acteur of film in" maxlength="255">
+        <input type="text" name="nameTitle" id="nameTitle" value="" placeholder="Vul naam van acteur of film in" maxlength="255">
 
         <input type="checkbox" name="genre" id="action" value="action">
         <label for="genre">Action</label>
