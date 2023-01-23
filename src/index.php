@@ -17,22 +17,22 @@ include '../src/functions.php';
         <input type="text" name="nameTitle" id="nameTitle" value="" placeholder="Vul naam van acteur of film in" maxlength="255">
 
         <input type="checkbox" name="genre" id="action" value="action">
-        <label for="genre">Action</label>
+        <label for="genre">Actie</label>
 
         <input type="checkbox" name="genre" id="adventure" value="adventure">
-        <label for="genre">Adventure</label>
+        <label for="genre">Avontuur</label>
 
         <input type="checkbox" name="genre" id="animation" value="animation">
-        <label for="genre">Animation</label>
+        <label for="genre">Animatie</label>
 
         <input type="checkbox" name="genre" id="biography" value="biography">
-        <label for="genre">Biography</label>
+        <label for="genre">Biografie</label>
 
         <input type="checkbox" name="genre" id="comedy" value="comedy">
-        <label for="genre">Comedy</label>
+        <label for="genre">Komedie</label>
 
         <input type="checkbox" name="genre" id="crime" value="crime">
-        <label for="genre">Crime</label>
+        <label for="genre">Misdaad</label>
 
         <input type="checkbox" name="genre" id="drama" value="drama">
         <label for="genre">Drama</label>
@@ -41,19 +41,19 @@ include '../src/functions.php';
         <label for="genre">Horror</label>
 
         <input type="checkbox" name="genre" id="music" value="music">
-        <label for="genre">Music</label>
+        <label for="genre">Muziek</label>
 
         <input type="checkbox" name="genre" id="mystery" value="mystery">
-        <label for="genre">Mystery</label>
+        <label for="genre">Mysterie</label>
 
         <input type="checkbox" name="genre" id="romance" value="romance">
-        <label for="genre">Romance</label>
+        <label for="genre">Romantiek</label>
 
         <input type="checkbox" name="genre" id="thriller" value="thriller">
         <label for="genre">Thriller</label>
 
         <input type="checkbox" name="genre" id="war" value="war">
-        <label for="genre">War</label>
+        <label for="genre">Oorlog</label>
 
         <input type="submit" name="submit" value="Zoeken">
     </form>
