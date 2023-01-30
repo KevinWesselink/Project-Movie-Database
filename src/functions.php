@@ -4,7 +4,7 @@ include '../database/db.php';
 if (isset($_POST['submit'])) {
     global $conn;
 
-    $nameTile = $_POST['nameTile'];
+    $nameTitle = $_POST['nameTitle'];
     $action = $_POST['action'];
     $adventure = $_POST['adventure'];
     $animation = $_POST['animation'];
